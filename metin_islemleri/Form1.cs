@@ -69,6 +69,7 @@ namespace metin_islemleri
                 harfler[i]= alfabe.Substring(i,1);
                 lstAlfabe.Items.Add(harfler[i].ToString());
             }
+            //eklendi
 
             
         }
